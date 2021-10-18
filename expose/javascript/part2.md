@@ -55,4 +55,14 @@
     F.true
 15. A strict equality operator === checks the equality without type conversion.
     == is equality operator checkk with type conversion.
-16. 
+16. Done
+17. [2,4,6]
+    well, it initialized a empty arrey
+    and call doSomething for each variable in the arrey
+    doSomething just double the value
+    then we got the result
+18. Done
+19. print 1
+    print 2 after 1 second
+    print 3
+    print 4
